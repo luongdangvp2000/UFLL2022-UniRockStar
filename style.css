@@ -6,7 +6,7 @@ body, html {
 .bgimg {
     background-position: center;
     background-size: cover;
-    background-image: url("/images/background.png");
+    background-image: url("/images/marketing-to-millenials.png");
     min-height: 75%;
 }
 .table{
