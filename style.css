@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+  }
+  
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("/images/background.png");
+    min-height: 75%;
+}
+#table-1{
+    text-align: center;
+}
+
+/* #image-truth-div{
+    text-align: center;
+} */
+
+/* #image-truth{
+    width: 80vh;
+} */
+  
+.menu {
+    display: none;
+}
