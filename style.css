@@ -9,8 +9,9 @@ body, html {
     background-image: url("/images/background.png");
     min-height: 75%;
 }
-#table-1{
+.table{
     text-align: center;
+    margin-bottom: 50px;
 }
 
 /* #image-truth-div{
